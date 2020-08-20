@@ -27,9 +27,9 @@ During the past few months, alot of people around the world have started to refl
 
 Our Snap Mini seeks to strengthen these relationships by using the popular game called Pokemon.
 
-Since the word for friend in Japanese is Tomodachi, we decided to name our Snap Mini “PokeGachi”
+Since the word for friend in Japanese is Tomodachi, we decided to name our Snap Mini “Poke-Dachi”
 
-In PokeGachi, users can take care of a specific Pokemon and evolve it with friends.
+In Poke-Dachi, users can take care of a specific Pokemon and evolve it with friends.
 The more people chat, the faster their Pokemon levels up!
 They won't be limited to just one Pokemon. More conversations on Snapchat means more
 Pokemon to level up. Users can even see their Pokemon on the Pikaboo website for more details.
